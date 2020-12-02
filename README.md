@@ -2,10 +2,10 @@
 
 ##
 
-- 📺 dddddurse: [Become A VS Code SuperHero!][course]!
+- 📺 MOTD: Hello Fam!!
 - 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Learn Java.
+- 🖐 I’m looking to collaborate with other content creators.
+- 🏷️ 2020 Goals: Learn Java.
 - ⚡ Fun fact: My GitHub Profile is glitched, I don't know why Hah. 🤣
 
 
