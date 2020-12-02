@@ -1,7 +1,6 @@
 ### Hi there, I'm Penguin - aka [PenguinMC][website] 👋
 
-
-## 
+##
 
 - 🔭 dddddurse: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
